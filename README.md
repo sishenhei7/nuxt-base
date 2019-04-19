@@ -1,4 +1,4 @@
-# official-website
+# nuxt-base
 
 Base Config Upon Nuxt.js
 
